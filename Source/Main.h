@@ -1,0 +1,3 @@
+#programma once
+
+#includes <iostream>
